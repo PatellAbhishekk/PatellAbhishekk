@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhishek+Patel✌️+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=𝓗𝓲+𝓣𝓱𝓮𝓻𝓮!+👋;+𝓘'𝓶+𝓐𝓫𝓱𝓲𝓼𝓱𝓮𝓴+𝓟𝓪𝓽𝓮𝓵✌️+!;" />
 </h1>
 
 <h3 align="center">A passionate Web developer</h3>
