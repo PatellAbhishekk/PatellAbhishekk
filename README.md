@@ -13,7 +13,7 @@
 <ul>
 <h2>⚡️ ᴡʜᴇʀᴇ ᴛᴏ ғɪɴᴅ ᴍᴇ 👇</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/patel4201" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/https://www.facebook.com/Itzz%20Patel" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/itzz_patel_24?igsh=MXdncmVkc2N3eTMxbQ==" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+<!-- <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/Itzz%20Patel" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a> -->
+<!-- <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/itzz_patel_24?igsh=MXdncmVkc2N3eTMxbQ==" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a> -->
 <a target="_blank" href="https://www.youtube.com/https://youtube.com/@itzpatel24?si=iK23EBLTJ2SPagwN" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=patel-4201&show_icons=true&locale=en" alt="patel-4201" /></p>
