@@ -25,7 +25,7 @@
 
 <h2>⚡️ Where to Find Me 👇</h2>
 <p>
-    👉My Portfolio : <a href="https://abhishekpatel.pages.dev/" target="_blank">
+    <a href="https://abhishekpatel.pages.dev/" target="_blank">
         <img src="https://img.shields.io/badge/Profile-Portfolio-blue?style=for-the-badge&logo=About.me&logoColor=white" alt="Profile"/>
     </a>
 </p>
