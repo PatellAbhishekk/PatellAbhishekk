@@ -25,12 +25,9 @@
 
 <h2>⚡️ Where to Find Me 👇</h2>
 <p>
-    <a href="https://abhishekpatel.pages.dev/" target="_blank">
-        <img src="<a href="https://abhishekpatel.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Profile-0077B5?style=for-the-badge&logo=user&logoColor=white" alt="Profile"/>
+   <a href="https://abhishekpatel.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Profile-0077B5?style=for-the-badge&logo=user&logoColor=FFD700" alt="Profile"/>
 </a>
-" alt="profile"/>
-    </a>
     <a href="https://www.linkedin.com/in/patel4201" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
