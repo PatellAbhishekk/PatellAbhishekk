@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=𝓗𝓲+𝓣𝓱𝓮𝓻𝓮!+👋;+𝓘'𝓶+𝓐𝓫𝓱𝓲𝓼𝓱𝓮𝓴+𝓟𝓪𝓽𝓮𝓵✌️+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=𝓗𝓲+𝓣𝓱𝓮𝓻𝓮!+👋;+𝓘'𝓶+𝓐𝓫𝓱𝓲𝓼𝓱𝓮𝓴+𝓟𝓪𝓽𝓮𝓵+!;" />
 </h1>
 
 <h3 align="center">👍 A Passionate Web Developer</h3>
@@ -17,6 +17,9 @@
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/>
+    </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
     </a>
     <a href="https://react.dev/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
