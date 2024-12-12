@@ -3,7 +3,11 @@
 </h1>
 
 <h3 align="center">👍 A Passionate Web Developer</h3>
-<img src="https://thereadersea.com/wp-content/uploads/2023/07/MERN-stack-developer.jpg" width="1000px" height="400px" />
+<p align="center"> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"> </p>
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=PatellAbhishekk&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
 <div align="center">
   
 ## 💻 Tech Stack ⚡
@@ -35,13 +39,13 @@
 <div align="center">
   
 ## 🌐 Connect with Me 🍬
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Patel4201) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhishekpatell24/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patellabhishekk/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PatellAbhishekk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Patel4201)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhishekpatell24/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patellabhishekk/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PatellAbhishekk) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/) 
 
 </div>
 
 <p align="Center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PatellAbhishekk" alt="PatellAbhishekk" /></a> </p>
-<p align="center"> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"> </p>
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=PatellAbhishekk&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
+
