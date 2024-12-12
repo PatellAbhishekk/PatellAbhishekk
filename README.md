@@ -82,5 +82,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PatellAbhishekk" alt="PatellAbhishekk" /></a> </p>
 <p align="center"> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"> </p>
 <div align="center">
+  
   [![](https://visitcount.itsvg.in/api?id=PatellAbhishekk&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
