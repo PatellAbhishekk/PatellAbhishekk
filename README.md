@@ -4,11 +4,8 @@
 
 <h3 align="center">👍 A Passionate Web Developer</h3>
 <p align="center"> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"> </p>
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=PatellAbhishekk&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
-<div align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=github&label=Profile%20views&color=0e75b6&style=flat" alt="vipullprajapati"  height="25px" width="200"/> </p>
+
   
 ## 💻 Tech Stack ⚡
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
