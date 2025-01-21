@@ -4,10 +4,12 @@
 
 <h3 align="center">👍 A Passionate Web Developer</h3>
 <p align="center"> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px"> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=github&label=Profile%20views&color=0e75b6&style=flat" alt="vipullprajapati"  height="25px" width="200"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=github&label=Profile%20views&color=0e75b6&style=flat" alt="PatellAbhishekk"  height="25px" width="200"/> </p>
 
-  
+<div align="center">
+    
 ## 💻 Tech Stack ⚡
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
